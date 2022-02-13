@@ -88,35 +88,27 @@ ___
              
 ***FINAL COURSE PROJECT QUESTIONS*** 
  
-- My partner and I want to come by each of the stores in person and meet the managers. Please send over 
---   the managers’ names at each store, with the full address of each property (street address, district, 
---   city, and country please).
+- My partner and I want to come by each of the stores in person and meet the managers. Please send over the managers’ names at each store, with the full   address   of each property (street address, district, city, and country please).
+<img width="1182" alt="fcp1" src="https://user-images.githubusercontent.com/60319087/153774170-90ed91c4-e7a8-4a08-aafb-3606f4ba695c.png">
 
--- 2.I would like to get a better understanding of all of the inventory that would come along with the business. 
---   Please pull together a list of each inventory item you have stocked, including the store_id number, the 
---   inventory_id, the name of the film, the film’s rating, its rental rate and replacement cost.
 
--- 3.From the same list of films you just pulled, please roll that data up and provide a summary level overview 
--- of your inventory. We would like to know how many inventory items you have with each rating at each store.
+- I would like to get a better understanding of all of the inventory that would come along with the business.Please pull together a list of each  	             inventory item you have stocked, including the store_id number, the inventory_id, the name of the film, the film’s rating, its rental rate and  	                 replacement cost. 	
+  
+<img width="1188" alt="fcp2" src="https://user-images.githubusercontent.com/60319087/153774248-85bb4d2f-6386-43d6-a631-28e3a5c475e0.png">
 
--- 4.Similarly, we want to understand how diversified the inventory is in terms of replacement cost. We want to 
---   see how big of a hit it would be if a certain category of film became unpopular at a certain store.
---   We would like to see the number of films, as well as the average replacement cost, and total replacement 
---   cost, sliced by store and film category.
+- From the same list of films you just pulled, please roll that data up and provide a summary level overview of your inventory. We would like to know how   many     inventory items you have with each rating at each store.
+<img width="1188" alt="fcp3" src="https://user-images.githubusercontent.com/60319087/153774267-63923c44-9658-47b8-9782-fd6c0f28fe66.png">
 
--- 5.We want to make sure you folks have a good handle on who your customers are. Please provide a list of all 
---   customer names, which store they go to, whether or not they are currently active, and their full addresses 
---   – street address, city, and country.
+- Similarly, we want to understand how diversified the inventory is in terms of replacement cost. We want to see how big of a hit it would be if a         certain   category of film became unpopular at a certain store.We would like to see the number of films, as well as the average replacement cost, and       total             replacement cost, sliced by store and film category.
+<img width="1186" alt="fcp4" src="https://user-images.githubusercontent.com/60319087/153774290-6fb884d4-eeda-4e38-b2cd-699e53d0f121.png">
 
--- 6.We would like to understand how much your customers are spending with you, and also to know who your most 
---   valuable customers are. Please pull together a list of customer names, their total lifetime rentals, and 
---   the sum of all payments you have collected from them. It would be great to see this ordered on total 
---   lifetime value, with the most valuable customers at the top of the list.
+- We want to make sure you folks have a good handle on who your customers are. Please provide a list of all customer names, which store they go to,         whether   or not they are currently active, and their full addresses street address, city, and country.
+<img width="1185" alt="fcp5" src="https://user-images.githubusercontent.com/60319087/153774310-fc0dc92f-23f5-4643-9d19-697b0ac823de.png">
 
--- 7.My partner and I would like to get to know your board of advisors and any current investors. Could you 
---   please provide a list of advisor and investor names in one table? Could you please note whether they are 
---   an investor or an advisor, and for the investors, it would be good to include which company they work with.
+- We would like to understand how much your customers are spending with you, and also to know who your most valuable customers are. Please pull together   a list     of customer names, their total lifetime rentals, and the sum of all payments you have collected from them. It would be great to see this ordered   on total         lifetime value, with the most valuable customers at the top of the list.
+<img width="1186" alt="fcp6" src="https://user-images.githubusercontent.com/60319087/153774337-97b10aac-cc43-471c-bcc0-6dac1f7a07a1.png">
 
--- 8.We're interested in how well you have covered the most-awarded actors. Of all the actors with three types 
---   of awards, for what % of them do we carry a film? And how about for actors with two types of awards? Same 
---   questions. Finally, how about actors with just one award ?
+- My partner and I would like to get to know your board of advisors and any current investors. Could you please provide a list of advisor and investor names in one   table? Could you please note whether they are an investor or an advisor, and for the investors, it would be good to include which company they work with.
+<img width="1184" alt="fcp7" src="https://user-images.githubusercontent.com/60319087/153774338-f2404cb1-bcc2-4c84-9361-37170b42fee3.png">
+
+___
