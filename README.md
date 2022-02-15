@@ -8,7 +8,7 @@ I have access to the entire ***Maven Movies SQL Database*** , but the remaining 
 
 
 ___
-`The Objective :` 
+`The Objective :`   
 #### Use MYSQL to :
 ```
 -> Access and explore the Maven Movies Database.
